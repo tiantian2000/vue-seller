@@ -1,21 +1,36 @@
-# sell
+<h2>项目介绍</h2>
 
-> sell
+外卖APP,这是一个关于外卖的App,所有数据来自Mock模拟
 
-## Build Setup
+<h2>技术栈</h2>
+Vue2.0
 
-``` bash
-# install dependencies
+<h2>在线访问</h2>
+https://tiantian2000.github.io/vue-seller/
+
+<h2>项目截图<h2>
+<img src="https://github.com/tiantian2000/vue-movie/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
+
+<h2> 运行项目</h2>
+
+#克隆整个项目到本地<br>
+git clone https://github.com/tiantian2000/vue-seller.git
+
+#切换到项目所在文件夹<br>
+cd vue-seller
+
+#安装依赖<br>
 npm install
 
-# serve with hot reload at localhost:8080
+#打开浏览器，输入localhost:8080即可访问<br>
 npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### 说明
+>  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+>  或者您可以 "follow" 一下，后续会不断开源更多的自己写的有趣的项目
+
+> 如有问题请直接在 Issues 中提问
+
+
