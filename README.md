@@ -9,7 +9,7 @@ Vue2.0
 https://tiantian2000.github.io/vue-seller/
 
 <h2>项目截图<h2>
-<img src="https://github.com/tiantian2000/vue-movie/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
+<img src="https://github.com/tiantian2000/vue-seller/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
 
 <h2> 运行项目</h2>
 
